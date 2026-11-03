@@ -1,0 +1,6 @@
+{
+  "name": "Apex Abstract Java Chat & Agent Library",
+  "description": "Foundational abstract Java POJO library decomposing LLM chat, tools, and agentic workflows into granular JavaBeans with fluent chainable setters and polymorphic interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

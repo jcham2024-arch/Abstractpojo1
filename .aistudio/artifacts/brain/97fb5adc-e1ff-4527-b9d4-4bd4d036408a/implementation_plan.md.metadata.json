@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for TelemetryEvent in apex-chat-core, extending ChatLifecycleEvent and composing GenerationTelemetry with a new CostEstimation POJO for granular performance and cost tracking.",
+  "updatedAt":  "2026-10-29T20:15:28.204060451Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
